@@ -19,7 +19,7 @@ namespace QuitarModoLectura
 
         public List<Archivo> archivos { get; set; }
         public string Ruta { get; set; }
-
+        //Actualizacion 
         public Form1()
         {
             InitializeComponent();
